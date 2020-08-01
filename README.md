@@ -1,0 +1,2 @@
+# Loan-status-using-supervised-learning-algorithms
+This is a project done under the ML Mentorship Programme of TechTable. I analyzed a Data set of 614 people, with features like Education, Employment status, etc. Loan status was predicted using 4 different methods: Logistic Regression, K-nearest neighbors, Decision Tree and SVC, and the accuracy obtained in these methods we compared. I also tried to hypertune some parameters, and observed the change in accuracy accordingly.
